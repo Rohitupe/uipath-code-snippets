@@ -1,7 +1,7 @@
 {
-  "name": "SQL_and_NOSQL",
+  "name": "code_snippet",
   "projectId": "d1f97394-9417-4eeb-a31a-fc7b72845e2d",
-  "description": "SQL Practice",
+  "description": "Coding Practice",
   "main": "Main.xaml",
   "dependencies": {
     "InternalLabs.MongoDB.Activities": "[1.0.1]",
